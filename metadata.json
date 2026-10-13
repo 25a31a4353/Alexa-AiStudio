@@ -1,0 +1,6 @@
+{
+  "name": "Amazon Alexa+",
+  "description": "Turn complex goals into real outcomes with Alexa+ multi-tool agent, mission planner, knowledge hub, and service integrations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
